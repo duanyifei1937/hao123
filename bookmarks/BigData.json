@@ -1,0 +1,17 @@
+[
+    {
+        "name": "HUE",
+        "icon": "https://ks3-cn-beijing.ksyun.com/docker-images-new/images/hue.png",
+        "url": "http://baidu.com"
+    },
+    {
+        "name": "zeppelin",
+        "icon": "https://ks3-cn-beijing.ksyun.com/docker-images-new/images/zeppelin.jpg",
+        "url": "http://baidu.com"
+    },
+    {
+        "name": "superset",
+        "icon": "https://ks3-cn-beijing.ksyun.com/docker-images-new/images/superset.jpg",
+        "url": "http://baidu.com"
+    }
+]

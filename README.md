@@ -33,4 +33,11 @@ npm run build
 
 ## DEMO
 
-http://jguang.top/demos/hao123/
+toolbox.testabc.net
+![xx](https://raw.githubusercontent.com/duanyifei1937/Picture-bed/master/blog-img/20190721135355.png)
+
+
+## Deploy
+在本地`npm run build`, 生成static file in dist/, 将dist/下内容copy至Nginx访问路径下；
+* 使用helm部署；
+* 使用Jenkins流程化；

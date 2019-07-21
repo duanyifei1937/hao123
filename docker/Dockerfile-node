@@ -1,0 +1,9 @@
+# 在本地编译，未build node env image
+FROM nodejscn/node
+MAINTAINER duanyifei1937@gmail.com
+
+WORKDIR /usr/share/app
+COPY . .
+
+RUN npm install
+RUN npm run build
